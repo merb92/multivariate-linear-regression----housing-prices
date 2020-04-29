@@ -1,12 +1,12 @@
 # Column Names and descriptions for Kings County Data Set
 * **id** - unique identified for a house
-* **dateDate** - house was sold
-* **pricePrice** -  is prediction target
-* **bedroomsNumber** -  of Bedrooms/House
-* **bathroomsNumber** -  of bathrooms/bedrooms
-* **sqft_livingsquare** -  footage of the home
-* **sqft_lotsquare** -  footage of the lot
-* **floorsTotal** -  floors (levels) in house
+* **date** - Date house was sold
+* **price** - Price is prediction target
+* **bedrooms** - Number of Bedrooms/House
+* **bathrooms** - Number of bathrooms/bedrooms
+* **sqft_living** - square footage of the home
+* **sqft_lot** - square footage of the lot
+* **floors** - Total floors (levels) in house
 * **waterfront** - House which has a view to a waterfront
 * **view** - Has been viewed
 * **condition** - How good the condition is ( Overall )
