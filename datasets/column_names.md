@@ -4,7 +4,7 @@
 * **price** - Price is prediction target
 * **bedrooms** - Number of Bedrooms/House
 * **bathrooms** - Ratio of bathrooms to bedrooms -- Ideal is 2+ baths for every 3 beds
-* **sqft_living** - square footage of the home
+* **sqft_living** - square footage of the home -- Sum of sqft_basement + sqft_above
 * **sqft_lot** - square footage of the lot
 * **floors** - Total floors (levels) in house
 * **waterfront** - House which has a view to a waterfront
