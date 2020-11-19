@@ -52,4 +52,4 @@ To make improvements to our model, we need additional data.  To start, better lo
 
 ### For Further Information
 
-Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb) or review the [presentation](theKeys.pdf).
+Please review the narrative of the analysis in the [Jupyter notebooks](index.ipynb), review the [presentation](theKeys.pdf), or read the related [blog article](https://medium.com/analytics-vidhya/waiting-for-the-bathroom-a-linear-regression-story-8b2b7c48bcc7).
